@@ -1,12 +1,6 @@
 package FlappyBird;
 
 import java.awt.Graphics;
-
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
 import java.awt.Image;
 import java.awt.Panel;
 import java.awt.Rectangle;
